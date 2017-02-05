@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\male.png",
+        "source": "C:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\src\\main\\res\\drawable-hdpi\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\female.png",
+        "source": "C:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\src\\main\\res\\drawable-hdpi\\female.png"
+    }
+]

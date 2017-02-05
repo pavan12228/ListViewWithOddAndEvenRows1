@@ -1,0 +1,7 @@
+#Sun Feb 05 23:55:32 IST 2017
+base.0=C\:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69e918ea4761ebf8c81d341b37c23dfd13f1cfa1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_86fdca21e904bd6f1857bd47570ee098c1d062a1\\classes.dex
+base.1=C\:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_86fdca21e904bd6f1857bd47570ee098c1d062a1
+file.0=C\:\\Users\\Ravi\\Downloads\\ListViewWithOddAndEvenRows1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69e918ea4761ebf8c81d341b37c23dfd13f1cfa1\\classes.dex
